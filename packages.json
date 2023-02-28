@@ -1,0 +1,68 @@
+ [
+  {
+    "package": "ravemanager",
+    "url": "https://github.com/dipterix/ravemanager"
+  },
+  {
+    "package": "filearray",
+    "url": "https://github.com/dipterix/filearray"
+  },
+  {
+    "package": "dipsaus",
+    "url": "https://github.com/dipterix/dipsaus"
+  },
+  {
+    "package": "shidashi",
+    "url": "https://github.com/dipterix/shidashi"
+  },
+  {
+    "package": "threeBrain",
+    "url": "https://github.com/dipterix/threeBrain"
+  },
+  {
+    "package": "rpymat",
+    "url": "https://github.com/dipterix/rpymat"
+  },
+  {
+    "package": "raveio",
+    "url": "https://github.com/beauchamplab/raveio"
+  },
+  {
+    "package": "ravetools",
+    "url": "https://github.com/dipterix/ravetools"
+  },
+  {
+    "package": "ravedash",
+    "url": "https://github.com/dipterix/ravedash"
+  },
+  {
+    "package": "readNSx",
+    "url": "https://github.com/dipterix/readNSx"
+  },
+  {
+    "package": "rpyANTs",
+    "url": "https://github.com/dipterix/rpyANTs"
+  },
+  {
+    "package": "rutabaga",
+    "url": "https://github.com/dipterix/rutabaga"
+  },
+  {
+    "package": "rave",
+    "url": "https://github.com/beauchamplab/rave"
+  },
+  {
+    "package": "ravebuiltins",
+    "url": "https://github.com/beauchamplab/ravebuiltins",
+    "branch": "migrate2"
+  },
+  {
+    "package": "raveclusters",
+    "url": "https://github.com/z94007/raveclusters",
+    "branch": "rave2.0-pipeline"
+  },
+  {
+    "package": "ravecorrelation",
+    "url": "https://github.com/LeoraCramer/ravecorrelation"
+  }
+]
