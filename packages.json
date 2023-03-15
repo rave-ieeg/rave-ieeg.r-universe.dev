@@ -57,6 +57,10 @@
     "branch": "migrate2"
   },
   {
+    "package": "clusterCrit",
+    "url": "https://github.com/rave-ieeg/clusterCrit"
+  },
+  {
     "package": "raveclusters",
     "url": "https://github.com/z94007/raveclusters",
     "branch": "rave2.0-pipeline"
