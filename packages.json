@@ -44,6 +44,10 @@
     "url": "https://github.com/dipterix/rpyANTs"
   },
   {
+    "package": "ieegio",
+    "url": "https://github.com/dipterix/ieegio"
+  },
+  {
     "package": "rutabaga",
     "url": "https://github.com/dipterix/rutabaga"
   },
