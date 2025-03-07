@@ -24,6 +24,10 @@
     "url": "https://github.com/dipterix/rpymat"
   },
   {
+    "package": "ravepipeline",
+    "url": "https://github.com/dipterix/ravepipeline"
+  },
+  {
     "package": "raveio",
     "url": "https://github.com/beauchamplab/raveio"
   },
