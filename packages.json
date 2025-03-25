@@ -65,6 +65,10 @@
     "branch": "migrate2"
   },
   {
+    "package": "bidsr",
+    "url": "https://github.com/dipterix/bidsr"
+  },
+  {
     "package": "rnwb",
     "url": "https://github.com/dipterix/rnwb"
   },
