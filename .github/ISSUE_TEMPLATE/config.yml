@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: RAVE Community Support & Feature Requests
+    url: https://github.com/orgs/rave-ieeg/discussions
+    about: Please ask questions here, including installation issues, feature requests, and general questions.
