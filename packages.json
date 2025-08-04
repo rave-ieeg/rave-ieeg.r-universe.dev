@@ -28,6 +28,10 @@
     "url": "https://github.com/dipterix/ravepipeline"
   },
   {
+    "package": "ravecore",
+    "url": "https://github.com/rave-ieeg/ravecore"
+  },
+  {
     "package": "raveio",
     "url": "https://github.com/beauchamplab/raveio"
   },
