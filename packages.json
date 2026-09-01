@@ -44,6 +44,14 @@
     "url": "https://github.com/dipterix/ravedash"
   },
   {
+    "package": "hdf5r",
+    "url": "https://github.com/dipterix/hdf5r"
+  },
+  {
+    "package": "hdf5lib",
+    "url": "https://github.com/cmmr/hdf5lib"
+  },
+  {
     "package": "readNSx",
     "url": "https://github.com/dipterix/readNSx"
   },
